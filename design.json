@@ -1,0 +1,99 @@
+{
+  "counters": {
+    "u_column": 1,
+    "u_row": 1,
+    "u_content_html": 1
+  },
+  "body": {
+    "id": "body",
+    "rows": [
+      {
+        "id": "row_1",
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "id": "column_1",
+            "contents": [
+              {
+                "id": "html_1",
+                "type": "html",
+                "values": {
+                  "html": "<body class=\"clean-body u_body\" style=\"margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #ffffff;color: #000000\">\n<!--[if IE]><div class=\"ie-container\"><![endif]-->\n<!--[if mso]><div class=\"mso-container\"><![endif]-->\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #ffffff;width:100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\">\n<!--[if (mso)|(IE)]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td align=\"center\" style=\"background-color: #ffffff;\"><![endif]-->\n<div class=\"u-row-container v-row-background-color\" id=\"u_row_1\" style=\"padding: 0px;background-image: url('assets/1659615555189-BG_1.png');background-repeat: no-repeat;background-position: center top;background-color: transparent\">\n<div class=\"u-row v-row-columns-background-color-background-color\" style=\"Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;\">\n<div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n<!--[if (mso)|(IE)]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td class=\"v-row-background-color\" style=\"padding: 0px;background-image: url('assets/1659615555189-BG_1.png');background-repeat: no-repeat;background-position: center top;background-color: transparent;\" align=\"center\"><table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"width:600px;\"><tr class=\"v-row-columns-background-color-background-color\" style=\"background-color: transparent;\"><![endif]-->\n<!--[if (mso)|(IE)]><td align=\"center\" width=\"600\" style=\"width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\" valign=\"top\"><![endif]-->\n<div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n<div style=\"height: 100%;width: 100% !important;\">\n<!--[if (!mso)&(!IE)]><!--><div style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_1\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:130px 10px 10px;font-family:arial,helvetica,sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tr>\n<td align=\"center\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"Hero Image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1659616111222-unemployee.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 75%;max-width: 435px;\" title=\"Hero Image\" width=\"435\"/>\n</td>\n</tr>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_1\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 40px;font-family:arial,helvetica,sans-serif;\">\n<h1 class=\"v-font-size\" style=\"margin: 0px; color: #dd2a2a; line-height: 130%; text-align: center; word-wrap: break-word; font-family: 'Cabin',sans-serif; font-size: 24px; \"><strong>Warning Email to Employee for<br/>Poor Performance</strong></h1>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_2\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 30px;font-family:arial,helvetica,sans-serif;\">\n<h1 class=\"v-font-size\" style=\"margin: 0px; line-height: 140%; text-align: left; word-wrap: break-word; font-family: 'Cabin',sans-serif; font-size: 16px; \"><strong>Dear [Employee\u2019s name],</strong></h1>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_3\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:30px;font-family:arial,helvetica,sans-serif;\">\n<h1 class=\"v-font-size\" style=\"margin: 0px; line-height: 140%; text-align: justify; word-wrap: break-word; font-family: 'Cabin',sans-serif; font-size: 16px; \">As we\u2019ve recently discussed, your [absenteeism] is negatively affecting both your individual performance at work and your team\u2019s productivity. We take [attendance at work] seriously and we expect all our employees to [comply with our company\u2019s policy regarding time off].<br/><br/>However, you have frequently violated [this policy] and [have exceeded the number of days you can be absent from work] despite reprimands. More specifically, [in the last month you didn\u2019t show up at work on X, Y, Z without any prior notice to either HR or your manager.] We do understand that unexpected issues may arise occasionally and we [are flexible (for example, by giving the option to work from home or take a sick leave to take care of a sick family member).] But, we still expect our employees to be professional and act in our company\u2019s best interest.<br/><br/>I\u2019m available to discuss any complications you face that cause your [absence at work.] Please, contact me directly if there\u2019s any way I can help you.</h1>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_4\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 79px 30px;font-family:arial,helvetica,sans-serif;\">\n<h1 class=\"v-font-size\" style=\"margin: 0px; line-height: 140%; text-align: left; word-wrap: break-word; font-family: 'Cabin',sans-serif; font-size: 16px; \">Sincerely,<br/><br/><strong>[Your name]</strong><br/><strong>[Your email signature]</strong></h1>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>\n</div>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>\n</div>\n<!--[if (mso)|(IE)]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if mso]></div><![endif]-->\n<!--[if IE]></div><![endif]-->\n</body>",
+                  "containerPadding": "10px",
+                  "_meta": {
+                    "htmlID": "u_content_html_1",
+                    "htmlClassNames": "u_content_html"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "padding": "0px",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      }
+    ],
+    "values": {
+      "backgroundColor": "#e7e7e7",
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": false,
+        "center": true,
+        "cover": false
+      },
+      "contentWidth": "600px",
+      "contentAlign": "center",
+      "fontFamily": {
+        "label": "Arial",
+        "value": "arial,helvetica,sans-serif"
+      },
+      "preheaderText": "",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 16
+}
